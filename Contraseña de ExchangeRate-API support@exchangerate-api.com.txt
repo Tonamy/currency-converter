@@ -1,0 +1,11 @@
+Thanks for confirming your email address, your account is now activated. 
+
+Your API key is: 006b792d0478d5dd9567b996 
+
+And here's an example request: 
+
+https://v6.exchangerate-api.com/v6/006b792d0478d5dd9567b996/latest/USD 
+
+If you would like to see detailed usage instructions, or examples in specific languages, you can visit our documentation page. 
+
+If you have any questions or feedback you're welcome to reply to this mail.
